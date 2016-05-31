@@ -33,12 +33,12 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\how\b/g, "Voldemort's Nipple");
+	v = v.replace(/\bhow\b/g, "Voldemort's Nipple");
 	v = v.replace(/\bthe\b/g, "Your Mom");
 	v = v.replace(/\brestaurant\b/g, "Turd");
 	v = v.replace(/\bpizza\b/g, "Fart Brain");
 	v = v.replace(/\bButts\b/g, "Kim Jong Un");
-	v = v.replace(/\Butt\b/g, "Bite Your Mom's Buttock");
+	v = v.replace(/\bButt\b/g, "Bite Your Mom's Buttock");
 	
 	textNode.nodeValue = v;
 }
