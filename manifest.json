@@ -3,9 +3,9 @@
 	"name": "Pie Hole",
 	"version": "2.0",
 	"description": "A pervert's best friend. ;)",
-	"icons": { "16": "http://pre09.deviantart.net/e6dd/th/pre/i/2012/155/b/d/you_shut_your_pie_hole_by_mehoep-d52am42.png",
-           "48": "http://pre09.deviantart.net/e6dd/th/pre/i/2012/155/b/d/you_shut_your_pie_hole_by_mehoep-d52am42.png",
-          "128": "http://pre09.deviantart.net/e6dd/th/pre/i/2012/155/b/d/you_shut_your_pie_hole_by_mehoep-d52am42.png" },
+	"icons": { "16": "",
+           "48": "images/you_shut_your_pie_hole_by_mehoep-d52am42.png",
+          "128": "images/you_shut_your_pie_hole_by_mehoep-d52am42.png" },
 	"content_scripts": 
 	[
 		{
