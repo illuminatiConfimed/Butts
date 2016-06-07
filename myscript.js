@@ -37,8 +37,13 @@ function handleText(textNode)
 	v = v.replace(/\bthe\b/g, "Your Mom");
 	v = v.replace(/\brestaurant\b/g, "Turd");
 	v = v.replace(/\bpizza\b/g, "Fart Brain");
-	v = v.replace(/\bButts\b/g, "Kim Jong Un");
-	v = v.replace(/\bButt\b/g, "Bite Your Mom's Buttock");
+	v = v.replace(/\bmy\b/g, "Kim Jong Un");
+	v = v.replace(/\byour\b/g, "Bite Your Mom's Buttock");
+	v = v.replace(/\bmac\b/g, "Poopy Pooper");
+	v = v.replace(/\bhelp\b/g, "Urine");
+	v = v.replace(/\btrump\b/g, "I poop my pants");
+	v = v.replace(/\bTrump\b/g, "I poop my pants");
+	
 	
 	textNode.nodeValue = v;
 }
